@@ -24,6 +24,9 @@ return(
             <Nav.Link href="#home" >MENU</Nav.Link>
             <Nav.Link href="#link">LINK</Nav.Link>
             <Nav.Link href="#link">LINK</Nav.Link>
+            <Nav.Link href="#link">LINK</Nav.Link>
+            <Nav.Link href="#link">LINK</Nav.Link>
+
           </Nav>
 
   
