@@ -1,0 +1,21 @@
+*{
+    font-weight: 750!important;
+    padding: initial;
+    font-family: "Tajawal", Sans-serif;
+    padding-inline-start: 10px;
+    color: black;
+    
+}
+
+.logo{
+    position: relative;
+   margin-left: -160px;
+  
+}
+.me-auto{
+  margin-left: -60px;
+
+  
+}
+
+
