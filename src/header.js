@@ -15,7 +15,7 @@ function Header (){
 return(
   
     <>
-    <Navbar className="nav" expand="lg" >
+    <Navbar className="nav" expand="lg">
       <Container>
         <Navbar.Brand href="#home"><img  className='logo' src={logo}  width={90} alt='logo' ></img>    </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

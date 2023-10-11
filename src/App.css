@@ -1,21 +1,21 @@
-.App{
+.App {
   text-align: center;
   margin-top: 20px;
 }
 
-.slideshow{
+.slideshow {
   position: relative;
   width: 100%;
-  height: 80vh;
+  height: 100vh; /* Make the slideshow fill the viewport height */
   overflow: hidden;
 }
 
-.slideshow-image{
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-animation: fade 1.5s ease-in-out infinite;
+.slideshow-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image covers the entire container */
+  animation: fade 1.5s ease-in-out infinite; /* Add a fade animation */
 }
